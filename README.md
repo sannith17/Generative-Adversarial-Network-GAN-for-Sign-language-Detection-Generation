@@ -1,1 +1,1 @@
-#Generative Adversarial Network (GAN) for Fake Sign language Generation
+This project uses Generative Adversarial Networks (GANs) for sign language detection & generation. The discriminator classifies real vs. generated sign gestures, while the generator creates realistic sign images/videos. It improves sign language recognition and enhances AI-driven communication tools.
